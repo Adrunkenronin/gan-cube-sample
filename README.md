@@ -9,12 +9,23 @@ Compiled live version of this application is available here:
  - https://afedotov.github.io/gan-cube-sample/
 
  HISTFILE=/workspace/.gitpod/cmd-0 history -r; {
+ 
 npm install && npm run build
+
 } && {
+
 npm run dev
+
 }
+
 gitpod /workspace/gan-cube-sample (main) $  HISTFILE=/workspace/.gitpod/cmd-0 history -r; {
+
 > npm install && npm run build
+> 
 > } && {
+> 
 > npm run dev
+> 
 > }
+> 
+
